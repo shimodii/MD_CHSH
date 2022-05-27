@@ -1,5 +1,6 @@
 # MARKDOWN CHEATSHEET
 
+### **you can read markdown from terminal btw with some tools like ==glow==
 
 # HEADERS
 md:
